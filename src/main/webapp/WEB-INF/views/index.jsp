@@ -19,7 +19,6 @@
 	<main class="container">
 		<h1 class="page-header mt-4 mb-4 ml-2">Computer Science Hall Of Fame</h1>
 		<div class="card">
-			<img style="height: 100px;" class="card-img-top" src="https://www.carthage.edu/live/image/gid/46/3711_computerscience-banner-final.rev.1399991027.jpg" alt="Card image cap">
   			<div class="card-header">
     			Abbreviated List
   			</div>
